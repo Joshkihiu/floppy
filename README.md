@@ -14,7 +14,7 @@ Flappython is a fun and addictive Python-powered arcade game inspired by the cla
 
 ## 🧠 Features
 
-- Clean retro visuals with smooth side-scrolling.
+- Clean retro visuals with smooth side-scrolling. 
 - Background and ground scrolling for immersive motion.
 - Realistic gravity and jump mechanics.
 - Fun sound effects:
