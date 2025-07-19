@@ -12,7 +12,7 @@ Flappython is a fun and addictive Python-powered arcade game inspired by the cla
   - Avoid hitting the pipes or falling out of bounds.
 - **Scoring**: You earn a point each time you pass between pipes.
 
-## 🧠 Features
+## 🧠 Features 
 
 - Clean retro visuals with smooth side-scrolling.
 - Background and ground scrolling for immersive motion.
