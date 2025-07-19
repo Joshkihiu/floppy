@@ -24,22 +24,7 @@ Flappython is a fun and addictive Python-powered arcade game inspired by the cla
 - High-performance rendering at 60 FPS using **Pygame**.
 - A cool little Python logo as the player avatar
 
-## 🗂️ Project Structure
-Flappython/
-├── fonts/
-│ └── BaiJamjuree-Bold.ttf
-├── sounds/
-│ ├── slap.wav
-│ ├── score.wav
-│ └── woosh.wav
-├── images/
-│ ├── player.png ← Your Python logo (64x62 PNG)
-│ ├── pipe_up.png
-│ ├── pipe_down.png
-│ ├── ground.png
-│ └── background.png
-├── flappython.py
-└── README.md
+
 
 ## 🔧 Requirements
 
