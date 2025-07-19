@@ -6,7 +6,7 @@ Flappython is a fun and addictive Python-powered arcade game inspired by the cla
 
 ## 🎮 Gameplay
 
-- **Objective**: Fly your Python through an endless series of pipes without crashing.
+- **Objective**: Fly your Python through an endless series of pipes without  crashing.
 - **Controls**: 
   - Press `SPACE` to flap.
   - Avoid hitting the pipes or falling out of bounds.
